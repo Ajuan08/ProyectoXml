@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaEquipo>
+    <equipos>
+        <annoFundacion>1905</annoFundacion>
+        <jugador>Kanté</jugador>
+        <localidad>Inglaterra</localidad>
+        <nombreEquipo>Chelsea</nombreEquipo>
+        <presidente>Gus Mears</presidente>
+        <valorEquipo>817000000</valorEquipo>
+    </equipos>
+    <equipos>
+        <annoFundacion>1907</annoFundacion>
+        <jugador>Joaquín </jugador>
+        <localidad>Sevilla</localidad>
+        <nombreEquipo>Real Betis Balompié</nombreEquipo>
+        <presidente>Ángel Haro</presidente>
+        <valorEquipo>230000000</valorEquipo>
+    </equipos>
+    <equipos>
+        <annoFundacion>1970</annoFundacion>
+        <jugador>Mbappé</jugador>
+        <localidad>París</localidad>
+        <nombreEquipo>Paris Saint-Germain</nombreEquipo>
+        <presidente>Nasser Al-Khelaïfi</presidente>
+        <valorEquipo>939000000</valorEquipo>
+    </equipos>
+    <equipos>
+        <annoFundacion>1950</annoFundacion>
+        <jugador>Cristiano Ronaldo</jugador>
+        <localidad>Inglaterra</localidad>
+        <nombreEquipo>Manchester United</nombreEquipo>
+        <presidente>Richard Arnold</presidente>
+        <valorEquipo>790000000</valorEquipo>
+    </equipos>
+    <equipos>
+        <annoFundacion>1903</annoFundacion>
+        <jugador>Luis Suárez</jugador>
+        <localidad>Madrid</localidad>
+        <nombreEquipo>Atlético de Madrid</nombreEquipo>
+        <presidente>Enrique Cerezo</presidente>
+        <valorEquipo>840000000</valorEquipo>
+    </equipos>
+</listaEquipo>
